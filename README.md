@@ -1,6 +1,6 @@
 # cvx_imab
 
-Code accompanies the paper "Solving Inverse Problem for Multi-armed Bandits via Convex Optimization".
+Code accompanies the paper "[Solving Inverse Problem for Multi-armed Bandits via Convex Optimization](https://arxiv.org/abs/2501.18945)".
 
 # Abstract
 We consider the inverse problem of multi-armed bandits (IMAB) that are widely used in neuroscience and psychology research for behavior modelling.
